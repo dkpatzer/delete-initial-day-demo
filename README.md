@@ -1,0 +1,1 @@
+# delete-initial-day-demo
